@@ -5,6 +5,7 @@
     android:id="@+id/nav_graph"
     app:startDestination="@id/PokemonListFragment">
 
+
     <fragment
         android:id="@+id/PokemonListFragment"
         android:name="com.example.ageofempire.EmpireListFragment"
@@ -15,6 +16,7 @@
             android:id="@+id/navigateToEmpireDetailFragment"
             app:destination="@id/SecondFragment" />
     </fragment>
+
     <fragment
         android:id="@+id/SecondFragment"
         android:name="com.example.ageofempire.EmpireDetailFragment"
