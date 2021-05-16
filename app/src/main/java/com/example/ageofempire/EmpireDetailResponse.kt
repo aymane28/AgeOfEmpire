@@ -3,6 +3,8 @@ package com.example.ageofempire
 data class EmpireDetailResponse (
     val name: String,
     val expansion: String,
+    val army_type: String,
+    val team_bonus: String,
     val data: Emp
 )
 

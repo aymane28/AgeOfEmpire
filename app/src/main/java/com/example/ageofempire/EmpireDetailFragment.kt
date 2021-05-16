@@ -15,6 +15,8 @@ class EmpireDetailFragment : Fragment() {
 
     private lateinit var textViewName: TextView
     private lateinit var textViewDetail: TextView
+    private lateinit var textViewDetail2: TextView
+    private lateinit var textViewDetail3: TextView
 
 
 
@@ -31,6 +33,8 @@ class EmpireDetailFragment : Fragment() {
 
         textViewName = view.findViewById(R.id.empire_detail_name)
         textViewDetail = view.findViewById(R.id.empire_detail)
+        textViewDetail2 = view.findViewById(R.id.empire_detail2)
+        textViewDetail3 = view.findViewById(R.id.empire_detail3)
 
         callApi()
     }
@@ -44,6 +48,8 @@ class EmpireDetailFragment : Fragment() {
                    if (response.isSuccessful && response.body() != null) {
                        textViewName.text = response.body()!!.name
                        textViewDetail.text = response.body()!!.expansion
+                       textViewDetail2.text = response.body()!!.army_type
+                       textViewDetail3.text = response.body()!!.team_bonus
 
                    }
                }

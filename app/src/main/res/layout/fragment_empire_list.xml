@@ -32,7 +32,7 @@
         android:id="@+id/empire_error"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="@string/error_generic"
+        android:text="Une erreur est survenue !"
         android:textAlignment="center"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
