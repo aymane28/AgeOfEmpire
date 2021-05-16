@@ -42,7 +42,7 @@ class EmpireDetailFragment : Fragment() {
 
         private fun callApi() {
             val id = arguments?.getInt("pokemonId") ?: -1
-            Singletons.empireApi.getPokemonDetail(id).enqueue(object: retrofit2.Callback<EmpireDetailResponse> {
+            Singletons.empireApi.getEmpireDetail(id).enqueue(object: retrofit2.Callback<EmpireDetailResponse> {
                override fun onResponse(call: Call<EmpireDetailResponse>,
                                        response: Response<EmpireDetailResponse>) {
                    if (response.isSuccessful && response.body() != null) {

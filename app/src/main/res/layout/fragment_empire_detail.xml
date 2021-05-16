@@ -13,6 +13,8 @@
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:textColor="#470404"
+       android:background="#FFEFEF"
+      android:textStyle="bold"
        android:textSize="30sp"
        android:fontFamily="casual"
        app:layout_constraintBottom_toBottomOf="parent"
@@ -41,16 +43,16 @@
        android:id="@+id/empire_detail"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text=" Expansion : "
        android:fontFamily="casual"
+       android:text=" Expansion : "
        android:textColor="#230909"
        android:textSize="17sp"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintEnd_toEndOf="parent"
-       app:layout_constraintHorizontal_bias="0.37"
+       app:layout_constraintHorizontal_bias="0.316"
        app:layout_constraintStart_toEndOf="@+id/empire__name1"
        app:layout_constraintTop_toTopOf="parent"
-       app:layout_constraintVertical_bias="0.247"
+       app:layout_constraintVertical_bias="0.246"
        tools:text="detail" />
 
    <TextView
@@ -79,10 +81,10 @@
        android:textSize="17sp"
        app:layout_constraintBottom_toBottomOf="parent"
        app:layout_constraintEnd_toEndOf="parent"
-       app:layout_constraintHorizontal_bias="0.389"
+       app:layout_constraintHorizontal_bias="0.335"
        app:layout_constraintStart_toEndOf="@+id/empire__name2"
        app:layout_constraintTop_toTopOf="parent"
-       app:layout_constraintVertical_bias="0.41"
+       app:layout_constraintVertical_bias="0.417"
        tools:text="detail2" />
 
    <TextView
