@@ -1,4 +1,4 @@
-package com.example.projet_test
+package com.example.ageofempire
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -6,6 +6,7 @@ import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import com.example.AgeofEmpire.R
 
 class MainActivity : AppCompatActivity() {
 

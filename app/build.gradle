@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.projet_test"
+        applicationId "com.example.ageofempire"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
@@ -47,4 +47,11 @@ dependencies {
 
     // RecyclerView
     implementation "androidx.recyclerview:recyclerview:$rootProject.1.1.0"
+
+    //Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
+    implementation'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
 }

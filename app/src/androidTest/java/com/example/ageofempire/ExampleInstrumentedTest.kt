@@ -1,4 +1,4 @@
-package com.example.projet_test
+package com.example.ageofempire
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

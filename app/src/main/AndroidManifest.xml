@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.projet_test">
+    package="com.example.AgeofEmpire">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
+        android:name="com.example.ageofempire.EmpireApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Projet_test">
+        android:theme="@style/Theme.AgeOfEmpire">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.ageofempire.MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Projet_test.NoActionBar">
+            android:theme="@style/Theme.AgeOfEmpire.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
