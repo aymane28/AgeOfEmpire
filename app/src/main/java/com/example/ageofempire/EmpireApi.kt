@@ -10,5 +10,5 @@ interface EmpireApi {
     fun getEmpireList(): Call<EmpireListResponse>
 
     @GET("civilization/{id}")
-    fun getPokemonDetail(@Path("id") id: Int): Call<EmpireDetailResponse>
+    fun getEmpireDetail(@Path("id") id: Int): Call<EmpireDetailResponse>
 }

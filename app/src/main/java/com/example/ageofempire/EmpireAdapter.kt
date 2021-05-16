@@ -56,7 +56,7 @@ class EmpireAdapter(private var dataSet: List<Empire>, var listener:((Int) -> Un
         }
         Glide
                 .with(viewHolder.itemView.context)
-                .load("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${position +1}.png")
+                .load("")
                 .centerCrop()
                 .into(viewHolder.imageView);
     }

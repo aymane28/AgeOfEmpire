@@ -3,11 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/PokemonListFragment">
+    app:startDestination="@id/EmpireListFragment">
+
 
 
     <fragment
-        android:id="@+id/PokemonListFragment"
+        android:id="@+id/EmpireListFragment"
         android:name="com.example.ageofempire.EmpireListFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_empire_list">
@@ -28,7 +29,7 @@
             android:defaultValue="-1" />
 
         <action
-            android:id="@+id/navigateToPokemonListFragment"
-            app:destination="@id/PokemonListFragment" />
+            android:id="@+id/navigateToEmpireListFragment"
+            app:destination="@id/EmpireListFragment" />
     </fragment>
 </navigation>

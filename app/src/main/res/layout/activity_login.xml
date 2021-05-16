@@ -88,6 +88,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="#BC1515"
+            android:onClick="envoyer"
             android:text="Se connecter"
             android:textColor="#FFFFFF"
             app:backgroundTint="#700909"
