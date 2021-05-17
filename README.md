@@ -7,7 +7,7 @@ Application développé durant mon cursus scolaire à l'ESIEA en 3eme année en 
 
 
 <p float="left">
-  <p> Page de connexion </p>
-  <img src="assets/login.png" width="250" />
-  <img src="assets/Register.png" width="250" />
+  <h2> Page de connexion </h2>
+  <img src="assets/login.png" width="200" />
+  <img src="assets/Register.png" width="200" />
 </p>
