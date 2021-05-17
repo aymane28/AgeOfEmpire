@@ -11,6 +11,5 @@ It was developed during some R&D time at [EPIC Agency](https://epic.net), back i
 <p float="left">
   <p> Page de connexion </p>
   <img src="assets/login.png" width="250" />
-  <p> Page d'inscription </p>
   <img src="assets/Register.png" width="250" />
 </p>
