@@ -9,7 +9,7 @@ It was developed during some R&D time at [EPIC Agency](https://epic.net), back i
 
 
 <p float="left">
-  <h1> Page de connexion </h1>
+  <p> Page de connexion </p>
   <img src="assets/login.png" width="250" />
   <img src="assets/Register.png" width="250" />
 </p>
