@@ -2,22 +2,19 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.projet_test.com.example.ageofempire.MainActivity">
-    <item
-        android:id="@+id/action_acceuil"
-        android:orderInCategory="100"
-        android:title="Acceuil"
-        app:showAsAction="never" />
 
 
     <item
-        android:id="@+id/action_profil"
+        android:id="@+id/action_deconnexion"
         android:orderInCategory="100"
-        android:title="Profil"
+        android:icon="@color/red"
+        android:title="Déconnexion"
        />
 
     <item
         android:id="@+id/action_about"
         android:orderInCategory="100"
+        android:icon="@color/red"
         android:title="About"
-       />
+        />
 </menu>

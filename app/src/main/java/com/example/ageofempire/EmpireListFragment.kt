@@ -29,10 +29,6 @@ class EmpireListFragment : Fragment() {
     private val adapter= EmpireAdapter(listOf(), ::onClickedEmpire)
     private val viewModel: EmpireListViewModel by viewModels()
 
-
-
-
-
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstanceState: Bundle?

@@ -4,8 +4,10 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.AgeofEmpire.R
+import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {
 
@@ -25,11 +27,23 @@ class MainActivity : AppCompatActivity() {
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         val id = item.itemId
 
-        if (id == R.id.action_profil) {
-            val aboutIntent = Intent(this@MainActivity, ProfilActivity::class.java)
+        if (id == R.id.action_deconnexion) {
+            FirebaseAuth.getInstance().signOut() //déconnexion
+            val aboutIntent = Intent(this@MainActivity, Login::class.java)
+            Toast.makeText(this@MainActivity, "Déconnexion réussie", Toast.LENGTH_SHORT).show()
             startActivity(aboutIntent)
             return true
         }
+
+        if (id == R.id.action_about) {
+            FirebaseAuth.getInstance().signOut() //déconnexion
+            val aboutIntent = Intent(this@MainActivity, AboutActivity::class.java)
+            startActivity(aboutIntent)
+            return true
+        }
+
+
+
 
         return super.onOptionsItemSelected(item)
     }
