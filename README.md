@@ -8,6 +8,6 @@ Application développé durant mon cursus scolaire à l'ESIEA en 3eme année en 
 
 <p float="left">
   <h2> Page de connexion & d'inscription </h2>
-  <a><img src="assets/login.png" width="200" /><a>
- <a> <img src="assets/Register.png" width="200" /><a>
+ <label> je suis la </label> <a href=""><img src="assets/login.png" width="200" /><a>
+ <a href=""> <img src="assets/Register.png" width="200" /><a>
 </p>
