@@ -9,6 +9,7 @@ It was developed during some R&D time at [EPIC Agency](https://epic.net), back i
 
 
 <p float="left">
-  <a href="https://luruke.github.io/aladino/#slider.html"><img src="assets/login.png" width="250" /></a>
-  <a href="https://luruke.github.io/aladino/#scroll.html"><img src="assets/Register.png" width="250" /></a>
+  <h1> Page de connexion </h1>
+  <img src="assets/login.png" width="250" />
+  <img src="assets/Register.png" width="250" />
 </p>
