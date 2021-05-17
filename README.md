@@ -7,11 +7,8 @@ Because examples are worth thousand of words: [https://luruke.github.io/aladino/
 
 It was developed during some R&D time at [EPIC Agency](https://epic.net), back in 2019, and it's currently used on:
 
-- [https://days.epic.net](https://days.epic.net)
-- [https://luruke.com](https://luruke.com)
 
 <p float="left">
-  <a href="https://luruke.github.io/aladino/#slider.html"><img src="assets/img1.png" width="250" /></a>
-  <a href="https://luruke.github.io/aladino/#scroll.html"><img src="docs/assets/demo/2.gif" width="250" /></a>
-  <a href="https://luruke.github.io/aladino/#basic.html"><img src="docs/assets/demo/3.gif" width="250" /></a>
+  <a href="https://luruke.github.io/aladino/#slider.html"><img src="assets/login.png" width="250" /></a>
+  <a href="https://luruke.github.io/aladino/#scroll.html"><img src="assets/register.png" width="250" /></a>
 </p>
