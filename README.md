@@ -26,9 +26,10 @@ Application développé durant mon cursus scolaire à l'ESIEA en 3eme année en 
      
       <h2> Activity : Afficher les éléments Déconnexion & About </h2>
  <a href="assets/deconnexion.png"><img src="assets/deconnexion.png" width="200" /><a>
-   </p>
+  
    
    
        <h2> Activity : Afficher le contenu de About </h2>
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
+    </p>
 
