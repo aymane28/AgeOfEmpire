@@ -8,6 +8,6 @@ Application développé durant mon cursus scolaire à l'ESIEA en 3eme année en 
 
 <p float="left">
   <h2> Page de connexion </h2>
-  <img src="assets/login.png" width="200" />
-  <img src="assets/Register.png" width="200" />
+  <a href="https://luruke.github.io/aladino/#slider.html"><img src="assets/login.png" width="200" /><a>
+ <a href="https://luruke.github.io/aladino/#slider.html"> <img src="assets/Register.png" width="200" /><a>
 </p>
