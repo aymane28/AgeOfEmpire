@@ -3,7 +3,7 @@
 AgaOfEmpire est une application Android développée en Kotlin. Une application qui affiche les nomc des civilisations des empires, ainsi que leurs caratéristiques.
 Because examples are worth thousand of words: [https://luruke.github.io/aladino/](https://luruke.github.io/aladino/)
 
-It was developed during some R&D time at [EPIC Agency](https://epic.net), back in 2019.
+Application développé durant mon cursus scolaire à l'ESIEA en 3eme année en 2021.
 
 
 <p float="left">
