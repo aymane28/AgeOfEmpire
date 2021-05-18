@@ -37,7 +37,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
    https://age-of-empires-2-api.herokuapp.com/docs/
    
    
-<p float="left">
+
   <h2> Activity : Connexion & Inscription </h2>
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
  <a href="assets/Register.png"> <img src="assets/Register.png" width="200" /><a>
@@ -62,7 +62,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
    
        <h2> Activity : Afficher le contenu de About </h2>
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
-    </p>
+  
    
     
 
