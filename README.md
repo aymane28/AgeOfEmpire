@@ -59,4 +59,7 @@ Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en
        <h2> Activity : Afficher le contenu de About </h2>
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
     </p>
+   
+    <h2> Api </h2>
+   https://age-of-empires-2-api.herokuapp.com/docs/
 
