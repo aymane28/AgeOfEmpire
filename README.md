@@ -60,6 +60,6 @@ Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
     </p>
    
-    <h2> Api </h2>
+    <h4> Api : </h4>
    https://age-of-empires-2-api.herokuapp.com/docs/
 
