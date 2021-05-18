@@ -4,7 +4,10 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 
 L'utilisateur pourra distinguer l'application sur son écran AgeOfEmpire grace à son icone sur son écran. 
-Ensuite il pourra s'inscrire ou se connecter afin de découvrir les différents noms de civilisations des empires, ainsi que leurs détails. Puis, il pourra se déconnecter par la suite. Ensuite les différentes informations du créateur de l'application sont mises sur une activité About.  
+
+Ensuite il pourra s'inscrire ou se connecter afin de découvrir les différents noms de civilisations des empires, ainsi que leurs détails. Puis, il pourra se déconnecter par la suite. 
+
+Ensuite les différentes informations du créateur de l'application sont mises sur une activité About.  
 
 Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en 2021.
 
