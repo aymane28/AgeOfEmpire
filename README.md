@@ -7,6 +7,7 @@ Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en
 
 Elle affiche une liste avec une RecyclerView, ainsi que les données sont stockées en cache via le cache HTTP.
 
+<h4> Détails sur l'application </h4>
 Architecture MVVM.
 
 Interacation avec une base de données Firebase.
