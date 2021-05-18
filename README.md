@@ -33,6 +33,10 @@ Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en
 - Design compatible avec le thème des Empires.
 
 
+<h4> Api : </h4>
+   https://age-of-empires-2-api.herokuapp.com/docs/
+   
+   
 <p float="left">
   <h2> Activity : Connexion & Inscription </h2>
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
@@ -60,6 +64,5 @@ Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
     </p>
    
-    <h4> Api : </h4>
-   https://age-of-empires-2-api.herokuapp.com/docs/
+    
 
