@@ -55,7 +55,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
      
      
      
-      <h2> Activity : Afficher les éléments Déconnexion & About </h2>
+      <h1> Activity : Afficher les éléments Déconnexion & About </h1>
  <a href="assets/deconnexion.png"><img src="assets/deconnexion.png" width="200" /><a>
   
    
