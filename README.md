@@ -44,7 +44,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
    
   
-  <h2> Activity : Afficher les  la liste </h2>
+  <h2> Activity : Afficher les éléments de la liste </h2>
  <a href="assets/list.png"><img src="assets/list.png" width="200" /><a>
 
    
