@@ -5,11 +5,16 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 Application développée durant mon cursus scolaire à l'ESIEA en 3eme année en 2021.
 
-Elle affiche une liste avec une RecyclerView, ainsi que les données sont stockées en cache via le cache HTTP
+Elle affiche une liste avec une RecyclerView, ainsi que les données sont stockées en cache via le cache HTTP.
+
 Architecture MVVM.
+
 Interacation avec une base de données Firebase.
+
 Inscription et connexion des Utilisateurs.
+
 Déconnexion des utilisateurs.
+
 Stockage des données dans Firebase.
 
 
