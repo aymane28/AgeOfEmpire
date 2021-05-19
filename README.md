@@ -18,9 +18,13 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 - Liste avec une RecyclerView. 
 
-- Détails de chaque élément de la liste
-
+- Détails de chaque élément de la liste.
+   
+- Utilisation d'une Api Rest.
+   
 - Données stockées en cache via le cache HTTP.
+   
+- Design Pattern Singleton.
 
 - Architecture MVVM.
 
