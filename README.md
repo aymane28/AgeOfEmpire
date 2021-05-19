@@ -73,7 +73,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
     
     
              <h2> Base de données Firebase </h2>
- <a href="assets/firebase.png"><img src="assets/firebase.png" width="350" /><a>
+ <a href="assets/firebase.png"><img src="assets/firebase.png" width="600" /><a>
   
    
     
