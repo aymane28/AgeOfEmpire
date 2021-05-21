@@ -42,11 +42,9 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 
 <h4> Api : </h4>
-   [url](http://www.simplonline.com)
-  [http://www.simplonline.com] 
+   <a href="https://age-of-empires-2-api.herokuapp.com/docs/"></a>
+
   
-   
-   
   <h2> Activity : Connexion & Inscription </h2>
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
  <a href="assets/Register.png"> <img src="assets/Register.png" width="200" /><a>
