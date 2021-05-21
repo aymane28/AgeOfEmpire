@@ -1,11 +1,11 @@
 # 🧞‍♂️ AgeOfEmpire – Your magic Android App
 
-AgaOfEmpire est une application Android développée en Kotlin. Une application qui affiche les noms des civilisations des empires, ainsi que leurs caratéristiques.
+AgeOfEmpire est une application Android développée en Kotlin. Une application qui affiche les noms des civilisations des empires, ainsi que leurs caratéristiques.
 
 
 :standing_man: L'utilisateur pourra distinguer l'application sur son écran AgeOfEmpire grace à son icône sur son écran. 
 
-<a href="assets/icone.png"><img src="assets/icone.png" width="60" /><a>
+<a href="assets/icone.png"><img src="assets/icone.png" width="50" /><a>
 
 :computer_mouse: Ensuite, il pourra s'inscrire ou se connecter afin de découvrir les différents noms de civilisations des empires, ainsi que leurs détails. Il pourra se déconnecter par la suite. 
 
@@ -18,9 +18,13 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 - Liste avec une RecyclerView. 
 
-- Détails de chaque élément de la liste
-
+- Détails de chaque élément de la liste.
+   
+- Utilisation d'une Api Rest.
+   
 - Données stockées en cache via le cache HTTP.
+   
+- Design Pattern Singleton.
 
 - Architecture MVVM.
 
@@ -31,15 +35,16 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 - Déconnexion des utilisateurs.
 
 - Stockage des données dans Firebase.
+   
+- Push Notification
 
 - Design compatible avec le thème des Empires.
 
 
 <h4> Api : </h4>
    https://age-of-empires-2-api.herokuapp.com/docs/
-   
-   
 
+  
   <h2> Activity : Connexion & Inscription </h2>
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
  <a href="assets/Register.png"> <img src="assets/Register.png" width="200" /><a>
@@ -64,6 +69,14 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
    
        <h2> Activity : Afficher le contenu de About </h2>
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
+    
+    
+         ## Push Notification 
+ <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
+    
+    
+             <h2> Base de données Firebase </h2>
+ <a href="assets/firebase.png"><img src="assets/firebase.png" width="600" /><a>
   
    
     
