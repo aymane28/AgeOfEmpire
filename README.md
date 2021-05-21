@@ -73,7 +73,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
     
     
-         <h2> Push Notification </h2>
+         ## Push Notification 
  <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
     
     
