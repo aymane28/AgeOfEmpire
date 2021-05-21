@@ -42,7 +42,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 
 <h4> Api : </h4>
-   Rendez-vous sur [Simplonline](http://www.simplonline.com) !
+  [http://www.simplonline.com] 
   
    
    
