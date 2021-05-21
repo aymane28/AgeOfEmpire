@@ -1,6 +1,6 @@
 # 🧞‍♂️ AgeOfEmpire – Your magic Android App
 
-AgaOfEmpire est une application Android développée en Kotlin. Une application qui affiche les noms des civilisations des empires, ainsi que leurs caratéristiques.
+AgeOfEmpire est une application Android développée en Kotlin. Une application qui affiche les noms des civilisations des empires, ainsi que leurs caratéristiques.
 
 
 :standing_man: L'utilisateur pourra distinguer l'application sur son écran AgeOfEmpire grace à son icône sur son écran. 
@@ -42,7 +42,7 @@ AgaOfEmpire est une application Android développée en Kotlin. Une application 
 
 
 <h4> Api : </h4>
-   <a href="https://age-of-empires-2-api.herokuapp.com/docs/"></a>
+   https://age-of-empires-2-api.herokuapp.com/docs/
 
   
   <h2> Activity : Connexion & Inscription </h2>
