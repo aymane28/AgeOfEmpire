@@ -1,4 +1,4 @@
-package com.example.ageofempire
+package com.example.ageofempire.list
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -16,6 +16,10 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 import com.example.AgeofEmpire.R
+import com.example.ageofempire.model.EmpireError
+import com.example.ageofempire.model.EmpireListViewModel
+import com.example.ageofempire.model.EmpireLoader
+import com.example.ageofempire.model.EmpireSuccess
 
 
 /**

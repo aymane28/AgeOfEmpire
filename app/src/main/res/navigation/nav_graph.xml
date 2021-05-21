@@ -9,7 +9,7 @@
 
     <fragment
         android:id="@+id/EmpireListFragment"
-        android:name="com.example.ageofempire.EmpireListFragment"
+        android:name="com.example.ageofempire.list.EmpireListFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_empire_list">
 
@@ -20,7 +20,7 @@
 
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.example.ageofempire.EmpireDetailFragment"
+        android:name="com.example.ageofempire.detail.EmpireDetailFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_empire_detail">
         <argument

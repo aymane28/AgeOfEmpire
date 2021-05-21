@@ -1,4 +1,6 @@
-package com.example.ageofempire
+package com.example.ageofempire.model
+
+import com.example.ageofempire.list.Empire
 
 sealed class EmpireModel
 

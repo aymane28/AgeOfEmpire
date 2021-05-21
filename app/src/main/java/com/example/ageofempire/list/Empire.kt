@@ -1,4 +1,4 @@
-package com.example.ageofempire
+package com.example.ageofempire.list
 
 data class Empire(
     val name: String

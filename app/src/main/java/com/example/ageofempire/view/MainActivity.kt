@@ -1,4 +1,4 @@
-package com.example.ageofempire
+package com.example.ageofempire.view
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,8 @@ import android.view.MenuItem
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.AgeofEmpire.R
+import com.example.ageofempire.user.AboutActivity
+import com.example.ageofempire.user.Login
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : AppCompatActivity() {

@@ -1,7 +1,5 @@
-package com.example.ageofempire
+package com.example.ageofempire.detail
 
-import android.content.Intent
-import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -10,6 +8,7 @@ import android.widget.Button
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import com.example.AgeofEmpire.R
+import com.example.ageofempire.api.Singletons
 import retrofit2.Call
 import retrofit2.Response
 

@@ -1,5 +1,7 @@
-package com.example.ageofempire
+package com.example.ageofempire.api
 
+import com.example.ageofempire.detail.EmpireDetailResponse
+import com.example.ageofempire.list.EmpireListResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path

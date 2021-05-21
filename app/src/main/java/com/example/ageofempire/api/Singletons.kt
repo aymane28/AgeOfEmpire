@@ -1,6 +1,6 @@
-package com.example.ageofempire
+package com.example.ageofempire.api
 
-import com.example.ageofempire.EmpireApplication.Companion.context
+import com.example.ageofempire.view.EmpireApplication.Companion.context
 import okhttp3.Cache
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

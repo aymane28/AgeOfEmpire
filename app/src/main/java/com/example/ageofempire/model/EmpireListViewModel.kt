@@ -1,7 +1,9 @@
-package com.example.ageofempire
+package com.example.ageofempire.model
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.example.ageofempire.list.EmpireListResponse
+import com.example.ageofempire.api.Singletons
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

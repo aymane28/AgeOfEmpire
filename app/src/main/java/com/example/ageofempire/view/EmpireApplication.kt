@@ -1,4 +1,4 @@
-package com.example.ageofempire
+package com.example.ageofempire.view
 
 import android.app.Application
 import android.content.Context
