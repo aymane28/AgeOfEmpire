@@ -3,7 +3,7 @@
 AgeOfEmpire est une application Android développée en Kotlin. Une application qui affiche les noms des civilisations des empires, ainsi que leurs caratéristiques.
 
 
-:standing_man: L'utilisateur pourra distinguer l'application sur son écran AgeOfEmpire grace à son icône sur son écran. 
+:standing_man: L'utilisateur pourra distinguer l'application sur son écran grace à son icône unique. 
 
 <a href="assets/icone.png"><img src="assets/icone.png" width="50" /><a>
 
