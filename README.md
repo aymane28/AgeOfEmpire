@@ -59,24 +59,24 @@ AgeOfEmpire est une application Android développée en Kotlin. Une application 
   <h2> Activity : Afficher les détails des éléments de la liste </h2>
  <a href="assets/detail1.png"><img src="assets/detail1.png" width="200" /><a>
    <a href="assets/detail2.png"><img src="assets/detail2.png" width="200" /><a>
-     
+      </br>
      
      
 :iphone: Activity : Afficher les éléments Déconnexion & About 
       
  <a href="assets/deconnexion.png"><img src="assets/deconnexion.png" width="200" /><a>
-  
+   </br>
    
    
  :page_facing_up: Activity : Afficher le contenu de About 
     
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
-    
+     </br>
     
 :loudspeaker: Push Notification 
     
  <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
-    
+     </br>
     
   :bulb: Base de données Firebase 
     
